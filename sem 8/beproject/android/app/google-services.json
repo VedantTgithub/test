@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158287745689",
+    "project_id": "evofinale",
+    "storage_bucket": "evofinale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158287745689:android:ebd7f882a80bb7c37ede08",
+        "android_client_info": {
+          "package_name": "com.example.evofinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0OBLFfn1AD4X_Nv02hfWo67MeTwZiUsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
